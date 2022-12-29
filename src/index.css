@@ -1,13 +1,56 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar {
+  background-color: #f55a5a;
+  color: white;
+  padding: 1rem 0 1rem 0;
 }
+
+
+
+/* CARD */
+
+.card__list {
+  max-width: 80%;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.card{
+  display: flex;
+  width: 80%;
+  padding: 0.5rem;
+  background-color: gray;
+  margin: 0.5rem auto 0.5rem auto;
+  border-radius: 0.3rem;
+  justify-content:flex-start;
+}
+
+.img-wrapper {
+  width: 100;
+  height: 100;
+  background-color: rgb(156, 103, 103);
+}
+
+.card__mid {
+  align-self: flex-start;
+}
+
+.card__right{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  margin-left: auto; /* https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties */
+}
+
+.channel-no {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+

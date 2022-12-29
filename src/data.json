@@ -1,0 +1,6012 @@
+[
+ {
+   "id": 1,
+   "channel_name": "DD National",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 114,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 2,
+   "channel_name": "Star Plus HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 115,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 3,
+   "channel_name": "Star Plus",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 117,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 4,
+   "channel_name": "Star Bharat HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 121,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 5,
+   "channel_name": "Star Bharat",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 122,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 6,
+   "channel_name": "SET HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 128,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 7,
+   "channel_name": "SET",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 130,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 8,
+   "channel_name": "Sony SAB HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 132,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 9,
+   "channel_name": "Sony SAB",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 134,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 10,
+   "channel_name": "&TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 137,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 11,
+   "channel_name": "&TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 139,
+   "fta_pay": "Pay",
+   "mrp": "₹ 12.00",
+   "mrp_tax": "₹ 14.16"
+ },
+ {
+   "id": 12,
+   "channel_name": "Zee TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 141,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 13,
+   "channel_name": "Zee TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 143,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 14,
+   "channel_name": "Colors HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 147,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 15,
+   "channel_name": "Colors",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 149,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 16,
+   "channel_name": "UTV Bindass",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 153,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 17,
+   "channel_name": "Investigation Discovery",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 155,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 18,
+   "channel_name": "Naaptol",
+   "hd_or_sd": "SD",
+   "genre": "Shopping",
+   "epg_no": 156,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 19,
+   "channel_name": "Ezmall",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 158,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 20,
+   "channel_name": "Star Utsav",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 171,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 21,
+   "channel_name": "Zee Anmol",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 172,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 22,
+   "channel_name": "Colors Rishtey",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 173,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 23,
+   "channel_name": "Sony Pal",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 174,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 24,
+   "channel_name": "The Q",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 175,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 25,
+   "channel_name": "Big Magic",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 176,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 26,
+   "channel_name": "Dangal",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 177,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 27,
+   "channel_name": "Anjan TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 178,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 28,
+   "channel_name": "DD Retro",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 180,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 29,
+   "channel_name": "Shemaroo TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 181,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 30,
+   "channel_name": "Ishara",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 182,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 31,
+   "channel_name": "DD Kisan",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Entertainment",
+   "epg_no": 198,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 32,
+   "channel_name": "Star World HD",
+   "hd_or_sd": "HD",
+   "genre": "English Entertainment",
+   "epg_no": 202,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 33,
+   "channel_name": "Star World",
+   "hd_or_sd": "SD",
+   "genre": "English Entertainment",
+   "epg_no": 203,
+   "fta_pay": "Pay",
+   "mrp": "₹ 8.00",
+   "mrp_tax": "₹ 9.44"
+ },
+ {
+   "id": 34,
+   "channel_name": "Star World Premiere HD",
+   "hd_or_sd": "HD",
+   "genre": "English Entertainment",
+   "epg_no": 206,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 35,
+   "channel_name": "Zee Café HD",
+   "hd_or_sd": "HD",
+   "genre": "English Entertainment",
+   "epg_no": 210,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 36,
+   "channel_name": "Zee Café",
+   "hd_or_sd": "SD",
+   "genre": "English Entertainment",
+   "epg_no": 211,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 37,
+   "channel_name": "Colors Infinity HD",
+   "hd_or_sd": "HD",
+   "genre": "English Entertainment",
+   "epg_no": 214,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 38,
+   "channel_name": "Colors Infinity",
+   "hd_or_sd": "SD",
+   "genre": "English Entertainment",
+   "epg_no": 215,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 39,
+   "channel_name": "Comedy Central HD",
+   "hd_or_sd": "HD",
+   "genre": "English Entertainment",
+   "epg_no": 218,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 40,
+   "channel_name": "Comedy Central",
+   "hd_or_sd": "SD",
+   "genre": "English Entertainment",
+   "epg_no": 219,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 41,
+   "channel_name": "Disney International HD",
+   "hd_or_sd": "HD",
+   "genre": "English Entertainment",
+   "epg_no": 221,
+   "fta_pay": "Pay",
+   "mrp": "₹ 12.00",
+   "mrp_tax": "₹ 14.16"
+ },
+ {
+   "id": 42,
+   "channel_name": "Star Gold HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Movies",
+   "epg_no": 308,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 43,
+   "channel_name": "Star Gold",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 310,
+   "fta_pay": "Pay",
+   "mrp": "₹ 8.00",
+   "mrp_tax": "₹ 9.44"
+ },
+ {
+   "id": 44,
+   "channel_name": "Sony Max HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Movies",
+   "epg_no": 312,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 45,
+   "channel_name": "Sony Max",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 314,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 46,
+   "channel_name": "Star Gold 2",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 317,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 47,
+   "channel_name": "Zee Cinema HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Movies",
+   "epg_no": 319,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 48,
+   "channel_name": "Zee Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 321,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 49,
+   "channel_name": "UTV HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Movies",
+   "epg_no": 322,
+   "fta_pay": "Pay",
+   "mrp": "₹ 8.00",
+   "mrp_tax": "₹ 9.44"
+ },
+ {
+   "id": 50,
+   "channel_name": "UTV Movies",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 323,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 51,
+   "channel_name": "UTV Action",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 325,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 52,
+   "channel_name": "Zee Bollywood",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 327,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 53,
+   "channel_name": "Zee Classic",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 328,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.50",
+   "mrp_tax": "₹ 0.59"
+ },
+ {
+   "id": 54,
+   "channel_name": "&pictures HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Movies",
+   "epg_no": 331,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 55,
+   "channel_name": "&pictures",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 332,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 56,
+   "channel_name": "Cinema TV India",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 345,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 57,
+   "channel_name": "B4U Kadak",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 346,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 58,
+   "channel_name": "Zee Action",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 349,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 59,
+   "channel_name": "Sony Wah",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 351,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 60,
+   "channel_name": "B4U Movies",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 352,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 61,
+   "channel_name": "Sony Max 2",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 355,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 62,
+   "channel_name": "Star Gold Select HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Movies",
+   "epg_no": 356,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 63,
+   "channel_name": "Star Gold Select",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 357,
+   "fta_pay": "Pay",
+   "mrp": "₹ 7.00",
+   "mrp_tax": "₹ 8.26"
+ },
+ {
+   "id": 64,
+   "channel_name": "Colors Cineplex HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi Movies",
+   "epg_no": 358,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 65,
+   "channel_name": "Colors Cineplex",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 359,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 66,
+   "channel_name": "Wow Cinema One",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 365,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 67,
+   "channel_name": "Enterr10 Movies",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 366,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 68,
+   "channel_name": "Bflix Movies",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 367,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 69,
+   "channel_name": "Star Utsav Movies",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 369,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 70,
+   "channel_name": "Zee Anmol Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 371,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 71,
+   "channel_name": "Dhinchaak",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 375,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 72,
+   "channel_name": "Manoranjan TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 376,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 73,
+   "channel_name": "Maha Movie",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 377,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 74,
+   "channel_name": "Surya Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Movies",
+   "epg_no": 378,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 75,
+   "channel_name": "Star Movies HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 402,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 76,
+   "channel_name": "Star Movies",
+   "hd_or_sd": "SD",
+   "genre": "English Movies",
+   "epg_no": 403,
+   "fta_pay": "Pay",
+   "mrp": "₹ 12.00",
+   "mrp_tax": "₹ 14.16"
+ },
+ {
+   "id": 77,
+   "channel_name": "Sony Pix HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 406,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 78,
+   "channel_name": "Sony Pix",
+   "hd_or_sd": "SD",
+   "genre": "English Movies",
+   "epg_no": 407,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 79,
+   "channel_name": "&flix HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 412,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 80,
+   "channel_name": "&flix",
+   "hd_or_sd": "SD",
+   "genre": "English Movies",
+   "epg_no": 413,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 81,
+   "channel_name": "Star Movies Select HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 418,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 82,
+   "channel_name": "Movies Now HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 420,
+   "fta_pay": "Pay",
+   "mrp": "₹ 12.00",
+   "mrp_tax": "₹ 14.16"
+ },
+ {
+   "id": 83,
+   "channel_name": "Movies Now",
+   "hd_or_sd": "SD",
+   "genre": "English Movies",
+   "epg_no": 421,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 84,
+   "channel_name": "MN+ HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 423,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 85,
+   "channel_name": "MNX HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 425,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 86,
+   "channel_name": "MNX",
+   "hd_or_sd": "SD",
+   "genre": "English Movies",
+   "epg_no": 426,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 87,
+   "channel_name": "Romedy Now HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 428,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 88,
+   "channel_name": "Romedy Now",
+   "hd_or_sd": "SD",
+   "genre": "English Movies",
+   "epg_no": 429,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 89,
+   "channel_name": "&prive HD",
+   "hd_or_sd": "HD",
+   "genre": "English Movies",
+   "epg_no": 431,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 90,
+   "channel_name": "DD Sports",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 453,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 91,
+   "channel_name": "Star Sports 1 HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 454,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 92,
+   "channel_name": "Star Sports 1",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 455,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 93,
+   "channel_name": "Star Sports 2 HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 456,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 94,
+   "channel_name": "Star Sports 2",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 457,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 95,
+   "channel_name": "Star Sports 3",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 458,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 96,
+   "channel_name": "Star Sports 1 Hindi HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 459,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 97,
+   "channel_name": "Star Sports 1 Hindi",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 460,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 98,
+   "channel_name": "Star Sports Select 1 HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 463,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 99,
+   "channel_name": "Star Sports Select 1",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 464,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 100,
+   "channel_name": "Star Sports Select 2 HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 465,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 101,
+   "channel_name": "Star Sports Select 2",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 466,
+   "fta_pay": "Pay",
+   "mrp": "₹ 7.00",
+   "mrp_tax": "₹ 8.26"
+ },
+ {
+   "id": 102,
+   "channel_name": "Sony Ten 1 HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 470,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 103,
+   "channel_name": "Sony Ten 1",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 471,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 104,
+   "channel_name": "Sony Ten 2 HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 473,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 105,
+   "channel_name": "Sony Ten 2",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 474,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 106,
+   "channel_name": "Sony Ten 3 HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 475,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 107,
+   "channel_name": "Sony Ten 3",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 476,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 108,
+   "channel_name": "Sony Six HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 483,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 109,
+   "channel_name": "Sony Six",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 484,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 110,
+   "channel_name": "Eurosport HD",
+   "hd_or_sd": "HD",
+   "genre": "Sports",
+   "epg_no": 495,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 111,
+   "channel_name": "Eurosport",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 496,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 112,
+   "channel_name": "Star Sports First",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 497,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 113,
+   "channel_name": "1Sports",
+   "hd_or_sd": "SD",
+   "genre": "Sports",
+   "epg_no": 498,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 114,
+   "channel_name": "DD News HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi News",
+   "epg_no": 501,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 115,
+   "channel_name": "DD News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 502,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 116,
+   "channel_name": "ABP News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 504,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 117,
+   "channel_name": "NDTV India",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 506,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 118,
+   "channel_name": "Aaj Tak HD",
+   "hd_or_sd": "HD",
+   "genre": "Hindi News",
+   "epg_no": 508,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.50",
+   "mrp_tax": "₹ 1.77"
+ },
+ {
+   "id": 119,
+   "channel_name": "Aaj Tak",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 509,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.75",
+   "mrp_tax": "₹ 0.89"
+ },
+ {
+   "id": 120,
+   "channel_name": "Zee News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 511,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 121,
+   "channel_name": "India TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 514,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 122,
+   "channel_name": "News 24",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 516,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 123,
+   "channel_name": "News18 India",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 519,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 124,
+   "channel_name": "Zee Hindustan",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 520,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 125,
+   "channel_name": "R Bharat",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 521,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 126,
+   "channel_name": "India News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 522,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 127,
+   "channel_name": "News Nation",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 523,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 128,
+   "channel_name": "TV9 Bharatvarsh",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 524,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 129,
+   "channel_name": "Aaj Tak Tez",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 525,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.25",
+   "mrp_tax": "₹ 0.30"
+ },
+ {
+   "id": 130,
+   "channel_name": "Total TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 527,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 131,
+   "channel_name": "Sudarshan News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 534,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 132,
+   "channel_name": "APN News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 542,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 133,
+   "channel_name": "India Voice",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 551,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 134,
+   "channel_name": "News 11 Bharat",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 552,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 135,
+   "channel_name": "News 1 India",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 553,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 136,
+   "channel_name": "Hindi Khabar",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 557,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 137,
+   "channel_name": "Bharat Samachar",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 559,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 138,
+   "channel_name": "News India 24x7",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 562,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 139,
+   "channel_name": "Khabrain Abhi Tak",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 563,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 140,
+   "channel_name": "Samay",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 566,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 141,
+   "channel_name": "Network 10",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 567,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 142,
+   "channel_name": "Jantantra TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 568,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 143,
+   "channel_name": "Prime News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 569,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 144,
+   "channel_name": "Zee Business",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 590,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 145,
+   "channel_name": "CNBC Awaaz",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 592,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 146,
+   "channel_name": "Lok Sabha TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 598,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 147,
+   "channel_name": "Rajya Sabha TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi News",
+   "epg_no": 599,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 148,
+   "channel_name": "NDTV 24x7",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 601,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 149,
+   "channel_name": "Times Now World (HD)",
+   "hd_or_sd": "HD",
+   "genre": "English News",
+   "epg_no": 603,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 150,
+   "channel_name": "Times Now",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 604,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 151,
+   "channel_name": "India Today",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 606,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 152,
+   "channel_name": "CNN News18",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 608,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.50",
+   "mrp_tax": "₹ 0.59"
+ },
+ {
+   "id": 153,
+   "channel_name": "NewsX",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 610,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 154,
+   "channel_name": "Mirror Now",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 612,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.50",
+   "mrp_tax": "₹ 0.59"
+ },
+ {
+   "id": 155,
+   "channel_name": "WION",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 613,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 156,
+   "channel_name": "Republic TV",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 616,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 157,
+   "channel_name": "India Ahead",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 617,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 158,
+   "channel_name": "DD India",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 622,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 159,
+   "channel_name": "NDTV Profit Prime",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 623,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 160,
+   "channel_name": "CNBC TV18 Prime HD",
+   "hd_or_sd": "HD",
+   "genre": "English News",
+   "epg_no": 625,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 161,
+   "channel_name": "CNBC TV18",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 626,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 162,
+   "channel_name": "ET Now",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 627,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 163,
+   "channel_name": "CNN",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 631,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.50",
+   "mrp_tax": "₹ 0.59"
+ },
+ {
+   "id": 164,
+   "channel_name": "BBC World",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 633,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 165,
+   "channel_name": "Al Jazeera",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 637,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 166,
+   "channel_name": "Channel News Asia",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 638,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 167,
+   "channel_name": "France 24",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 639,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 168,
+   "channel_name": "TV5 Monde Asie",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 640,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 169,
+   "channel_name": "DW",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 641,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 170,
+   "channel_name": "Australia TV",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 642,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 171,
+   "channel_name": "Russia Today",
+   "hd_or_sd": "SD",
+   "genre": "English News",
+   "epg_no": 643,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 172,
+   "channel_name": "Hungama TV",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 652,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 173,
+   "channel_name": "Marvel HQ",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 655,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 174,
+   "channel_name": "Disney",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 658,
+   "fta_pay": "Pay",
+   "mrp": "₹ 8.00",
+   "mrp_tax": "₹ 9.44"
+ },
+ {
+   "id": 175,
+   "channel_name": "Nick HD+",
+   "hd_or_sd": "HD",
+   "genre": "Kids",
+   "epg_no": 662,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 176,
+   "channel_name": "Nick",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 663,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 177,
+   "channel_name": "Cartoon Network HD+",
+   "hd_or_sd": "HD",
+   "genre": "Kids",
+   "epg_no": 666,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 178,
+   "channel_name": "Cartoon Network",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 667,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.25",
+   "mrp_tax": "₹ 5.02"
+ },
+ {
+   "id": 179,
+   "channel_name": "Pogo",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 670,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.25",
+   "mrp_tax": "₹ 5.02"
+ },
+ {
+   "id": 180,
+   "channel_name": "Discovery Kids",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 672,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 181,
+   "channel_name": "Sonic Nickelodeon",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 674,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 182,
+   "channel_name": "Sony Yay",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 676,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 183,
+   "channel_name": "Gubbare",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 678,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.65",
+   "mrp_tax": "₹ 0.77"
+ },
+ {
+   "id": 184,
+   "channel_name": "ETV Bal Bharat",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 680,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 185,
+   "channel_name": "Baby TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Kids",
+   "epg_no": 684,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 186,
+   "channel_name": "Nick Jr",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 685,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 187,
+   "channel_name": "Disney Junior",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 686,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 188,
+   "channel_name": "CBeeBies",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 687,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 189,
+   "channel_name": "Kushi TV",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 692,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 190,
+   "channel_name": "Chutti TV",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 693,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 191,
+   "channel_name": "Chintu TV",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 694,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 192,
+   "channel_name": "Kochu TV",
+   "hd_or_sd": "SD",
+   "genre": "Kids",
+   "epg_no": 695,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 193,
+   "channel_name": "National Geographic HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 708,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 194,
+   "channel_name": "National Geographic",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 709,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 195,
+   "channel_name": "Nat Geo Wild HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 711,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 196,
+   "channel_name": "Nat Geo Wild",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 712,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 197,
+   "channel_name": "Discovery HD World",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 713,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 198,
+   "channel_name": "Discovery Channel",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 714,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 199,
+   "channel_name": "Animal Planet HD World",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 716,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 200,
+   "channel_name": "Animal Planet",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 717,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 201,
+   "channel_name": "Discovery Science",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 719,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 202,
+   "channel_name": "History TV18 HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 720,
+   "fta_pay": "Pay",
+   "mrp": "₹ 7.00",
+   "mrp_tax": "₹ 8.26"
+ },
+ {
+   "id": 203,
+   "channel_name": "History TV18",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 721,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 204,
+   "channel_name": "Sony BBC Earth HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 724,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 205,
+   "channel_name": "Sony BBC Earth",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 725,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 206,
+   "channel_name": "Epic",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 735,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 207,
+   "channel_name": "Fox Life HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 753,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 208,
+   "channel_name": "Fox Life",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 754,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 209,
+   "channel_name": "DD Gyan Darshan",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 755,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 210,
+   "channel_name": "Swayam Prabha",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 756,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 211,
+   "channel_name": "TLC HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 759,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 212,
+   "channel_name": "TLC",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 760,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 213,
+   "channel_name": "Good Times",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 762,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.50",
+   "mrp_tax": "₹ 1.77"
+ },
+ {
+   "id": 214,
+   "channel_name": "Discovery Turbo",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 764,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 215,
+   "channel_name": "TravelXP HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 765,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 216,
+   "channel_name": "TravelXP",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 766,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 217,
+   "channel_name": "Food Food",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 768,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 218,
+   "channel_name": "Zee Zest HD",
+   "hd_or_sd": "HD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 769,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 219,
+   "channel_name": "Zee Zest",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 770,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 220,
+   "channel_name": "Fashion TV",
+   "hd_or_sd": "SD",
+   "genre": "Knowledge & Lifestyle",
+   "epg_no": 772,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 221,
+   "channel_name": "MTV HD+",
+   "hd_or_sd": "HD",
+   "genre": "Music",
+   "epg_no": 806,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 222,
+   "channel_name": "MTV",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 807,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 223,
+   "channel_name": "9XM",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 809,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 224,
+   "channel_name": "Zoom",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 811,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.50",
+   "mrp_tax": "₹ 0.59"
+ },
+ {
+   "id": 225,
+   "channel_name": "E24",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 813,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 226,
+   "channel_name": "MTV Beats HD",
+   "hd_or_sd": "HD",
+   "genre": "Music",
+   "epg_no": 820,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 227,
+   "channel_name": "MTV Beats",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 821,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 228,
+   "channel_name": "B4U Music",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 822,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 229,
+   "channel_name": "Mastiii",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 825,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 230,
+   "channel_name": "Zing",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 826,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 231,
+   "channel_name": "9X Jalwa",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 830,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 232,
+   "channel_name": "insync",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 833,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 233,
+   "channel_name": "Showbox",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 835,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 234,
+   "channel_name": "Vh1 HD",
+   "hd_or_sd": "HD",
+   "genre": "Music",
+   "epg_no": 855,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 235,
+   "channel_name": "Vh1",
+   "hd_or_sd": "SD",
+   "genre": "Music",
+   "epg_no": 856,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 236,
+   "channel_name": "Aastha",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1055,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 237,
+   "channel_name": "Sanskar",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1057,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 238,
+   "channel_name": "Disha TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1058,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 239,
+   "channel_name": "Paras TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1059,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 240,
+   "channel_name": "MH One Shraddha",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1061,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 241,
+   "channel_name": "Sadhna TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1063,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 242,
+   "channel_name": "Lord Buddha TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1064,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 243,
+   "channel_name": "Peace of Mind",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1065,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 244,
+   "channel_name": "Jinvani Channel",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1066,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 245,
+   "channel_name": "Arihant",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1067,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 246,
+   "channel_name": "Ishwar TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1068,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 247,
+   "channel_name": "Satsang TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1073,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 248,
+   "channel_name": "Shubh TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1074,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 249,
+   "channel_name": "Aastha Bhajan",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1077,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 250,
+   "channel_name": "Vedic",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1078,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 251,
+   "channel_name": "Subharti TV",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1082,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 252,
+   "channel_name": "Divya",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1083,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 253,
+   "channel_name": "Awakening",
+   "hd_or_sd": "SD",
+   "genre": "Spiritual",
+   "epg_no": 1084,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 254,
+   "channel_name": "Big Ganga",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1102,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.50",
+   "mrp_tax": "₹ 0.59"
+ },
+ {
+   "id": 255,
+   "channel_name": "Dishum",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1103,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 256,
+   "channel_name": "Enterr10 Rangeela",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1104,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 257,
+   "channel_name": "Zee Biskope",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1113,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 258,
+   "channel_name": "Filamchi",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1114,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.25",
+   "mrp_tax": "₹ 0.30"
+ },
+ {
+   "id": 259,
+   "channel_name": "Oscar Movies Bhojpuri",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1118,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 260,
+   "channel_name": "Bhojpuri Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1119,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 261,
+   "channel_name": "B4U Bhojpuri",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1120,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 262,
+   "channel_name": "Mango TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1122,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 263,
+   "channel_name": "News18 Uttar Pradesh Uttarakhand",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1125,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 264,
+   "channel_name": "Zee Uttar Pradesh Uttarakhand",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1126,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 265,
+   "channel_name": "ABP Ganga",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1127,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 266,
+   "channel_name": "News18 Bihar Jharkhand",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1129,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 267,
+   "channel_name": "Zee Bihar Jharkhand",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1130,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 268,
+   "channel_name": "India News UP UK",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1136,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 269,
+   "channel_name": "News State UP Uttarakhand",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1137,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 270,
+   "channel_name": "Sadhna Plus News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1138,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 271,
+   "channel_name": "Kashish News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1139,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 272,
+   "channel_name": "DD Bharati",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1152,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 273,
+   "channel_name": "DD Uttar Pradesh",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1153,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 274,
+   "channel_name": "DD Bihar",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1154,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 275,
+   "channel_name": "News18 Madhya Pradesh Chhattisgarh",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1155,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 276,
+   "channel_name": "Zee Madhya Pradesh Chattisgarh",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1156,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 277,
+   "channel_name": "IBC 24",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1161,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 278,
+   "channel_name": "Bansal News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1162,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 279,
+   "channel_name": "INH 24X7",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1163,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 280,
+   "channel_name": "India News MP CH",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1164,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 281,
+   "channel_name": "News State MP CG",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1165,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 282,
+   "channel_name": "Swaraj Express SMBC",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1166,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 283,
+   "channel_name": "Sadhna News MP CG",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1168,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 284,
+   "channel_name": "News 24 MP CG",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1169,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 285,
+   "channel_name": "DD Madhya Pradesh",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1175,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 286,
+   "channel_name": "News18 Rajasthan",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1176,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 287,
+   "channel_name": "Zee Rajasthan News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1177,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 288,
+   "channel_name": "First India Rajasthan",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1182,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 289,
+   "channel_name": "India News Rajasthan",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1183,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 290,
+   "channel_name": "Patrika TV Rajasthan",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1184,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 291,
+   "channel_name": "Jan TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1185,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 292,
+   "channel_name": "DD Rajasthan",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1190,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 293,
+   "channel_name": "News18 Urdu",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1191,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 294,
+   "channel_name": "Zee Salaam",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1192,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 295,
+   "channel_name": "Channel Win",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1193,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 296,
+   "channel_name": "Gulistan News",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1194,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 297,
+   "channel_name": "Tehzeeb TV",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1195,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 298,
+   "channel_name": "DD Urdu",
+   "hd_or_sd": "SD",
+   "genre": "Hindi Regional",
+   "epg_no": 1199,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 299,
+   "channel_name": "Colors Marathi HD",
+   "hd_or_sd": "HD",
+   "genre": "Marathi Regional",
+   "epg_no": 1201,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 300,
+   "channel_name": "Colors Marathi",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1202,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 301,
+   "channel_name": "Zee Marathi HD",
+   "hd_or_sd": "HD",
+   "genre": "Marathi Regional",
+   "epg_no": 1203,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 302,
+   "channel_name": "Zee Marathi",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1204,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 303,
+   "channel_name": "Star Pravah HD",
+   "hd_or_sd": "HD",
+   "genre": "Marathi Regional",
+   "epg_no": 1207,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 304,
+   "channel_name": "Star Pravah",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1208,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 305,
+   "channel_name": "Zee Yuva",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1211,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 306,
+   "channel_name": "Sony Marathi",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1213,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 307,
+   "channel_name": "Fakt Marathi",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1220,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 308,
+   "channel_name": "Zee Talkies HD",
+   "hd_or_sd": "HD",
+   "genre": "Marathi Regional",
+   "epg_no": 1225,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 309,
+   "channel_name": "Zee Talkies",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1226,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 310,
+   "channel_name": "Shemaroo Marathi Bana",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1230,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 311,
+   "channel_name": "ABP Majha",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1255,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 312,
+   "channel_name": "News18 Lokmat",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1257,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 313,
+   "channel_name": "Zee 24 Taas",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1259,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 314,
+   "channel_name": "Saam TV",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1261,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 315,
+   "channel_name": "Jai Maharashtra",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1262,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 316,
+   "channel_name": "TV9 Marathi",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1263,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 317,
+   "channel_name": "Lokshahi",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1265,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 318,
+   "channel_name": "DD Sahyadri",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1274,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 319,
+   "channel_name": "9X Jhakaas",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1276,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 320,
+   "channel_name": "Sangeet Marathi",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1277,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 321,
+   "channel_name": "Zee Vajwa",
+   "hd_or_sd": "SD",
+   "genre": "Marathi Regional",
+   "epg_no": 1278,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 322,
+   "channel_name": "Colors Bangla HD",
+   "hd_or_sd": "HD",
+   "genre": "Bengali Regional",
+   "epg_no": 1302,
+   "fta_pay": "Pay",
+   "mrp": "₹ 14.00",
+   "mrp_tax": "₹ 16.52"
+ },
+ {
+   "id": 323,
+   "channel_name": "Colors Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1303,
+   "fta_pay": "Pay",
+   "mrp": "₹ 7.00",
+   "mrp_tax": "₹ 8.26"
+ },
+ {
+   "id": 324,
+   "channel_name": "Zee Bangla HD",
+   "hd_or_sd": "HD",
+   "genre": "Bengali Regional",
+   "epg_no": 1306,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 325,
+   "channel_name": "Zee Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1307,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 326,
+   "channel_name": "Star Jalsha HD",
+   "hd_or_sd": "HD",
+   "genre": "Bengali Regional",
+   "epg_no": 1309,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 327,
+   "channel_name": "Star Jalsha",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1310,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 328,
+   "channel_name": "Sony Aath",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1312,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 329,
+   "channel_name": "Sun Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1317,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 330,
+   "channel_name": "Aakaash Aath",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1320,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 331,
+   "channel_name": "Ruposhi Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1321,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 332,
+   "channel_name": "Enterr10 Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1322,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 333,
+   "channel_name": "Jalsha Movies HD",
+   "hd_or_sd": "HD",
+   "genre": "Bengali Regional",
+   "epg_no": 1326,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 334,
+   "channel_name": "Jalsha Movies",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1327,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 335,
+   "channel_name": "Zee Bangla Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1329,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 336,
+   "channel_name": "Colors Bangla Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1331,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 337,
+   "channel_name": "Khushboo Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1341,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 338,
+   "channel_name": "Star Sports 1 Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1350,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 339,
+   "channel_name": "ABP Ananda",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1360,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 340,
+   "channel_name": "Zee 24 Ghanta",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1362,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 341,
+   "channel_name": "Kolkata TV",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1363,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 342,
+   "channel_name": "News18 Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1365,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 343,
+   "channel_name": "TV9 Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1366,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 344,
+   "channel_name": "Republic Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1367,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 345,
+   "channel_name": "News Time Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1368,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 346,
+   "channel_name": "CTVN AKD Plus",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1369,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 347,
+   "channel_name": "Calcutta News",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1370,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 348,
+   "channel_name": "DD Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1379,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 349,
+   "channel_name": "Sangeet Bangla",
+   "hd_or_sd": "SD",
+   "genre": "Bengali Regional",
+   "epg_no": 1380,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 350,
+   "channel_name": "Zee Telugu HD",
+   "hd_or_sd": "HD",
+   "genre": "Telugu Regional",
+   "epg_no": 1403,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 351,
+   "channel_name": "Zee Telugu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1404,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 352,
+   "channel_name": "Gemini TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Telugu Regional",
+   "epg_no": 1405,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 353,
+   "channel_name": "Gemini TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1406,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 354,
+   "channel_name": "Star Maa HD",
+   "hd_or_sd": "HD",
+   "genre": "Telugu Regional",
+   "epg_no": 1408,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 355,
+   "channel_name": "Star Maa",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1409,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 356,
+   "channel_name": "ETV HD",
+   "hd_or_sd": "HD",
+   "genre": "Telugu Regional",
+   "epg_no": 1411,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 357,
+   "channel_name": "ETV Telugu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1412,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 358,
+   "channel_name": "Gemini Life",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1415,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 359,
+   "channel_name": "ETV Plus",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1417,
+   "fta_pay": "Pay",
+   "mrp": "₹ 7.00",
+   "mrp_tax": "₹ 8.26"
+ },
+ {
+   "id": 360,
+   "channel_name": "Telugu Naaptol",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1419,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 361,
+   "channel_name": "Vissa TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1422,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 362,
+   "channel_name": "Studio Yuva",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1423,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 363,
+   "channel_name": "Gemini Movies HD",
+   "hd_or_sd": "HD",
+   "genre": "Telugu Regional",
+   "epg_no": 1430,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 364,
+   "channel_name": "Gemini Movies",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1431,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 365,
+   "channel_name": "Star Maa Movies HD",
+   "hd_or_sd": "HD",
+   "genre": "Telugu Regional",
+   "epg_no": 1432,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 366,
+   "channel_name": "Star Maa Movies",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1433,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 367,
+   "channel_name": "Star Maa Gold",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1435,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 368,
+   "channel_name": "Zee Cinemalu HD",
+   "hd_or_sd": "HD",
+   "genre": "Telugu Regional",
+   "epg_no": 1437,
+   "fta_pay": "Pay",
+   "mrp": "₹ 16.00",
+   "mrp_tax": "₹ 18.88"
+ },
+ {
+   "id": 369,
+   "channel_name": "Zee Cinemalu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1438,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 370,
+   "channel_name": "ETV Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1440,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 371,
+   "channel_name": "Gemini Comedy",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1442,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 372,
+   "channel_name": "Star Sports 1 Telugu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1446,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 373,
+   "channel_name": "ETV Life",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1451,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 374,
+   "channel_name": "ETV Abhiruchi",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1453,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 375,
+   "channel_name": "Sakshi TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1456,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 376,
+   "channel_name": "ETV Andhra Pradesh",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1457,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 377,
+   "channel_name": "TV5 News",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1458,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 378,
+   "channel_name": "TV9 Telugu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1459,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 379,
+   "channel_name": "NTV Telugu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1460,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 380,
+   "channel_name": "ABN Andhra Jyothy",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1461,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 381,
+   "channel_name": "T News",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1462,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 382,
+   "channel_name": "V6 News",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1463,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 383,
+   "channel_name": "ETV Telengana",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1464,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 384,
+   "channel_name": "HM TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1465,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 385,
+   "channel_name": "Raj News Telugu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1466,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 386,
+   "channel_name": "10 TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1467,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 387,
+   "channel_name": "4TV News",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1470,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 388,
+   "channel_name": "Vidya",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1479,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 389,
+   "channel_name": "Nipuna",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1480,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 390,
+   "channel_name": "DD Saptagiri",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1481,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 391,
+   "channel_name": "DD Yadagiri",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1482,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 392,
+   "channel_name": "Gemini Music",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1484,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 393,
+   "channel_name": "Star Maa Music",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1486,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 394,
+   "channel_name": "Raj Musix Telugu",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1487,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 395,
+   "channel_name": "Bhakti TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1490,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 396,
+   "channel_name": "Subhavaartha TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1491,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 397,
+   "channel_name": "Aradana TV",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1492,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 398,
+   "channel_name": "Swara Sagar",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1493,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 399,
+   "channel_name": "Hindu Dharmam",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1494,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 400,
+   "channel_name": "SVBC",
+   "hd_or_sd": "SD",
+   "genre": "Telugu Regional",
+   "epg_no": 1499,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 401,
+   "channel_name": "Sun TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Tamil Regional",
+   "epg_no": 1503,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 402,
+   "channel_name": "Sun TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1504,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 403,
+   "channel_name": "Sun Life",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1506,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 404,
+   "channel_name": "Star Vijay HD",
+   "hd_or_sd": "HD",
+   "genre": "Tamil Regional",
+   "epg_no": 1507,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 405,
+   "channel_name": "Star Vijay",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1508,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 406,
+   "channel_name": "Zee Tamil HD",
+   "hd_or_sd": "HD",
+   "genre": "Tamil Regional",
+   "epg_no": 1510,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 407,
+   "channel_name": "Zee Tamil",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1511,
+   "fta_pay": "Pay",
+   "mrp": "₹ 12.00",
+   "mrp_tax": "₹ 14.16"
+ },
+ {
+   "id": 408,
+   "channel_name": "Vijay Super",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1513,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 409,
+   "channel_name": "Colors Tamil HD",
+   "hd_or_sd": "HD",
+   "genre": "Tamil Regional",
+   "epg_no": 1514,
+   "fta_pay": "Pay",
+   "mrp": "₹ 7.00",
+   "mrp_tax": "₹ 8.26"
+ },
+ {
+   "id": 410,
+   "channel_name": "Colors Tamil",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1515,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 411,
+   "channel_name": "Jaya TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Tamil Regional",
+   "epg_no": 1517,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 412,
+   "channel_name": "Kalaignar TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1518,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 413,
+   "channel_name": "Raj TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1520,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 414,
+   "channel_name": "D Tamil",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1521,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 415,
+   "channel_name": "Raj Digital Plus",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1522,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.50",
+   "mrp_tax": "₹ 1.77"
+ },
+ {
+   "id": 416,
+   "channel_name": "Mega TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1523,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 417,
+   "channel_name": "Mega 24",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1524,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 418,
+   "channel_name": "Tamil Naaptol",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1525,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 419,
+   "channel_name": "Vasanth TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1530,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 420,
+   "channel_name": "Sirippoli",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1531,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 421,
+   "channel_name": "Polimer TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1532,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 422,
+   "channel_name": "Makkal TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1533,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 423,
+   "channel_name": "Peppers TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1534,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 424,
+   "channel_name": "Moon TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1535,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 425,
+   "channel_name": "Vendhar TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1536,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 426,
+   "channel_name": "KTV HD",
+   "hd_or_sd": "HD",
+   "genre": "Tamil Regional",
+   "epg_no": 1540,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 427,
+   "channel_name": "KTV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1541,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 428,
+   "channel_name": "Adithya TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1543,
+   "fta_pay": "Pay",
+   "mrp": "₹ 9.00",
+   "mrp_tax": "₹ 10.62"
+ },
+ {
+   "id": 429,
+   "channel_name": "J Movies",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1544,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.25",
+   "mrp_tax": "₹ 2.66"
+ },
+ {
+   "id": 430,
+   "channel_name": "Zee Thirai",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1546,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 431,
+   "channel_name": "Music Zone",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1547,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 432,
+   "channel_name": "Star Sports 1 Tamil",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1551,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 433,
+   "channel_name": "Sony Ten 4",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1552,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 434,
+   "channel_name": "TravelXP Tamil",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1553,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.50",
+   "mrp_tax": "₹ 1.77"
+ },
+ {
+   "id": 435,
+   "channel_name": "Kalvi TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1554,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 436,
+   "channel_name": "Puthiya Thalaimurai",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1556,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 437,
+   "channel_name": "Thanthi TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1557,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 438,
+   "channel_name": "Jaya Plus",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1558,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.50",
+   "mrp_tax": "₹ 0.59"
+ },
+ {
+   "id": 439,
+   "channel_name": "Sun News",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1559,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 440,
+   "channel_name": "News 7 Tamil",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1560,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 441,
+   "channel_name": "Polimer News",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1561,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 442,
+   "channel_name": "News18 Tamil Nadu",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1562,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 443,
+   "channel_name": "Seithigal TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1563,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 444,
+   "channel_name": "Raj News Tamil",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1564,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.25",
+   "mrp_tax": "₹ 0.30"
+ },
+ {
+   "id": 445,
+   "channel_name": "Sathiyam TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1565,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 446,
+   "channel_name": "Malaimurasu Seithigal",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1566,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 447,
+   "channel_name": "Captain News",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1567,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 448,
+   "channel_name": "News J",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1568,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 449,
+   "channel_name": "DD Podhigai",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1578,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 450,
+   "channel_name": "Sun Music HD",
+   "hd_or_sd": "HD",
+   "genre": "Tamil Regional",
+   "epg_no": 1579,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 451,
+   "channel_name": "Sun Music",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1580,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 452,
+   "channel_name": "Jaya Max",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1581,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.25",
+   "mrp_tax": "₹ 2.66"
+ },
+ {
+   "id": 453,
+   "channel_name": "Raj Musix",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1582,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 454,
+   "channel_name": "Vijay Music",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1583,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 455,
+   "channel_name": "Isaiaruvi",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1584,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 456,
+   "channel_name": "Murasu TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1585,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 457,
+   "channel_name": "Mega Musiq",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1586,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 458,
+   "channel_name": "Jothi TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1587,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 459,
+   "channel_name": "Madha TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1590,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 460,
+   "channel_name": "Angel TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1591,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 461,
+   "channel_name": "Nambikkai TV",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1592,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 462,
+   "channel_name": "SVBC 2",
+   "hd_or_sd": "SD",
+   "genre": "Tamil Regional",
+   "epg_no": 1599,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 463,
+   "channel_name": "Udaya TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Kannada Regional",
+   "epg_no": 1603,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 464,
+   "channel_name": "Udaya TV",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1604,
+   "fta_pay": "Pay",
+   "mrp": "₹ 17.00",
+   "mrp_tax": "₹ 20.06"
+ },
+ {
+   "id": 465,
+   "channel_name": "Colors Kannada HD",
+   "hd_or_sd": "HD",
+   "genre": "Kannada Regional",
+   "epg_no": 1605,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 466,
+   "channel_name": "Colors Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1606,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 467,
+   "channel_name": "Star Suvarna HD",
+   "hd_or_sd": "HD",
+   "genre": "Kannada Regional",
+   "epg_no": 1609,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 468,
+   "channel_name": "Star Suvarna",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1610,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 469,
+   "channel_name": "Zee Kannada HD",
+   "hd_or_sd": "HD",
+   "genre": "Kannada Regional",
+   "epg_no": 1611,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 470,
+   "channel_name": "Zee Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1612,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 471,
+   "channel_name": "Colors Super",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1615,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 472,
+   "channel_name": "Kannada Naaptol",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1617,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 473,
+   "channel_name": "Udaya Movies",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1626,
+   "fta_pay": "Pay",
+   "mrp": "₹ 16.00",
+   "mrp_tax": "₹ 18.88"
+ },
+ {
+   "id": 474,
+   "channel_name": "Udaya Comedy",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1628,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 475,
+   "channel_name": "Star Suvarna Plus",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1630,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 476,
+   "channel_name": "Colors Kannada Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1632,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 477,
+   "channel_name": "Zee Picchar",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1634,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 478,
+   "channel_name": "Public Movies",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1639,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 479,
+   "channel_name": "Star Sports 1 Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1645,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 480,
+   "channel_name": "Kasthuri",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1650,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 481,
+   "channel_name": "TV9 Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1653,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 482,
+   "channel_name": "Suvarna News 24x7",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1654,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 483,
+   "channel_name": "Public TV",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1655,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 484,
+   "channel_name": "News18 Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1656,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 485,
+   "channel_name": "TV5 Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1657,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 486,
+   "channel_name": "Raj News Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1658,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 487,
+   "channel_name": "Dighvijay 24x7 News",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1659,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 488,
+   "channel_name": "Power TV",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1660,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 489,
+   "channel_name": "News 1st",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1661,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 490,
+   "channel_name": "DD Chandana",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1672,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 491,
+   "channel_name": "Udaya Music",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1673,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 492,
+   "channel_name": "Raj Musix Kannada",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1674,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 493,
+   "channel_name": "Public Music",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1677,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 494,
+   "channel_name": "Sri Sankara TV",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1685,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 495,
+   "channel_name": "Ayush TV",
+   "hd_or_sd": "SD",
+   "genre": "Kannada Regional",
+   "epg_no": 1686,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 496,
+   "channel_name": "Colors Gujarati",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1702,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 497,
+   "channel_name": "Colors Gujarati Cinema",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1711,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 498,
+   "channel_name": "TV9 Gujarati",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1720,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 499,
+   "channel_name": "Gujarat Samachar TV",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1721,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 500,
+   "channel_name": "Sandesh News",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1722,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 501,
+   "channel_name": "CNBC Bajaar",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1724,
+   "fta_pay": "Pay",
+   "mrp": "₹ 1.00",
+   "mrp_tax": "₹ 1.18"
+ },
+ {
+   "id": 502,
+   "channel_name": "News18 Gujarati",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1726,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 503,
+   "channel_name": "ABP Asmita",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1728,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 504,
+   "channel_name": "VTV Gujarati",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1729,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 505,
+   "channel_name": "Zee 24 Kalak",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1731,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 506,
+   "channel_name": "India News Gujarat",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1732,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 507,
+   "channel_name": "Mantavya News",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1734,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 508,
+   "channel_name": "DD Girnar",
+   "hd_or_sd": "SD",
+   "genre": "Gujarati Regional",
+   "epg_no": 1739,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 509,
+   "channel_name": "Colors Oriya",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1752,
+   "fta_pay": "Pay",
+   "mrp": "₹ 6.00",
+   "mrp_tax": "₹ 7.08"
+ },
+ {
+   "id": 510,
+   "channel_name": "Tarang TV",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1754,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 511,
+   "channel_name": "Zee Sarthak",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1756,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 512,
+   "channel_name": "Manjari",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1760,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 513,
+   "channel_name": "Alankar",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1763,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 514,
+   "channel_name": "OTV",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1771,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 515,
+   "channel_name": "Zee Odisha",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1773,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 516,
+   "channel_name": "Kanak News",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1774,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 517,
+   "channel_name": "News18 Odia",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1776,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 518,
+   "channel_name": "Kalinga TV",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1777,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 519,
+   "channel_name": "Prameya News 7",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1778,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 520,
+   "channel_name": "Nandighosha TV",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1779,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 521,
+   "channel_name": "Argus News",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1780,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 522,
+   "channel_name": "DD Odia",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1785,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 523,
+   "channel_name": "Tarang Music",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1786,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 524,
+   "channel_name": "Prarthana TV",
+   "hd_or_sd": "SD",
+   "genre": "Odia Regional",
+   "epg_no": 1795,
+   "fta_pay": "Pay",
+   "mrp": "₹ 2.00",
+   "mrp_tax": "₹ 2.36"
+ },
+ {
+   "id": 525,
+   "channel_name": "Surya TV HD",
+   "hd_or_sd": "HD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1802,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 526,
+   "channel_name": "Surya TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1803,
+   "fta_pay": "Pay",
+   "mrp": "₹ 12.00",
+   "mrp_tax": "₹ 14.16"
+ },
+ {
+   "id": 527,
+   "channel_name": "Asianet HD",
+   "hd_or_sd": "HD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1806,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 528,
+   "channel_name": "Asianet",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1807,
+   "fta_pay": "Pay",
+   "mrp": "₹ 19.00",
+   "mrp_tax": "₹ 22.42"
+ },
+ {
+   "id": 529,
+   "channel_name": "Asianet Plus",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1809,
+   "fta_pay": "Pay",
+   "mrp": "₹ 5.00",
+   "mrp_tax": "₹ 5.90"
+ },
+ {
+   "id": 530,
+   "channel_name": "Zee Keralam HD",
+   "hd_or_sd": "HD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1811,
+   "fta_pay": "Pay",
+   "mrp": "₹ 8.00",
+   "mrp_tax": "₹ 9.44"
+ },
+ {
+   "id": 531,
+   "channel_name": "Zee Keralam",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1812,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 532,
+   "channel_name": "Flowers",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1814,
+   "fta_pay": "Pay",
+   "mrp": "₹ 10.00",
+   "mrp_tax": "₹ 11.80"
+ },
+ {
+   "id": 533,
+   "channel_name": "Amrita TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1817,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 534,
+   "channel_name": "Mazhavil Manorama HD",
+   "hd_or_sd": "HD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1818,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 535,
+   "channel_name": "Mazhavil Manorama",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1819,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 536,
+   "channel_name": "Kairali TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1820,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 537,
+   "channel_name": "We TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1822,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 538,
+   "channel_name": "Naaptol Malayalam",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1823,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 539,
+   "channel_name": "Surya Movies",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1826,
+   "fta_pay": "Pay",
+   "mrp": "₹ 11.00",
+   "mrp_tax": "₹ 12.98"
+ },
+ {
+   "id": 540,
+   "channel_name": "Asianet Movies",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1828,
+   "fta_pay": "Pay",
+   "mrp": "₹ 15.00",
+   "mrp_tax": "₹ 17.70"
+ },
+ {
+   "id": 541,
+   "channel_name": "Surya Comedy",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1830,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 542,
+   "channel_name": "Safari TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1838,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 543,
+   "channel_name": "Asianet News",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1841,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 544,
+   "channel_name": "Kairali News",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1842,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 545,
+   "channel_name": "Manorama News",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1843,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 546,
+   "channel_name": "Mathrubhumi News",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1844,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 547,
+   "channel_name": "News18 Kerala",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1846,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 548,
+   "channel_name": "Jai Hind TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1847,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 549,
+   "channel_name": "Jeevan TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1848,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 550,
+   "channel_name": "Media One TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1849,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 551,
+   "channel_name": "Janam TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1850,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 552,
+   "channel_name": "Kaumudy",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1851,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 553,
+   "channel_name": "Raj News Malayalam",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1853,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 554,
+   "channel_name": "Twenty four",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1854,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 555,
+   "channel_name": "KITE Victers",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1873,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 556,
+   "channel_name": "DD Malayalam",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1874,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 557,
+   "channel_name": "Surya Music",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1875,
+   "fta_pay": "Pay",
+   "mrp": "₹ 4.00",
+   "mrp_tax": "₹ 4.72"
+ },
+ {
+   "id": 558,
+   "channel_name": "Raj Musix Malayalam",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1877,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 559,
+   "channel_name": "Kappa TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1878,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 560,
+   "channel_name": "Goodness",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1885,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 561,
+   "channel_name": "God TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1886,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 562,
+   "channel_name": "SHALOM TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1887,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 563,
+   "channel_name": "ATE TV",
+   "hd_or_sd": "SD",
+   "genre": "Malayalam Regional",
+   "epg_no": 1888,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 564,
+   "channel_name": "Zee Punjabi",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1903,
+   "fta_pay": "Pay",
+   "mrp": "₹ 3.00",
+   "mrp_tax": "₹ 3.54"
+ },
+ {
+   "id": 565,
+   "channel_name": "PTC Punjabi",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1906,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 566,
+   "channel_name": "MH One",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1907,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 567,
+   "channel_name": "Pitaara TV",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1911,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 568,
+   "channel_name": "PTC Punjabi Gold",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1912,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 569,
+   "channel_name": "Zee Punjab Haryana Himachal Pradesh",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1920,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 570,
+   "channel_name": "PTC News",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1921,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 571,
+   "channel_name": "News18 Punjab Haryana Himachal",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1922,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 572,
+   "channel_name": "India News Punjab",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1923,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 573,
+   "channel_name": "India News Haryana",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1924,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 574,
+   "channel_name": "Janta TV",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1925,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 575,
+   "channel_name": "MH One News",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1926,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 576,
+   "channel_name": "ANB News",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1927,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 577,
+   "channel_name": "Living India News",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1928,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 578,
+   "channel_name": "DD Punjabi",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1935,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 579,
+   "channel_name": "PTC Chak De",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1938,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 580,
+   "channel_name": "9X Tashan",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1939,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 581,
+   "channel_name": "Balle Balle",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1940,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 582,
+   "channel_name": "Chardikla Time TV",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1945,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 583,
+   "channel_name": "PTC Simran",
+   "hd_or_sd": "SD",
+   "genre": "Punjabi Regional",
+   "epg_no": 1946,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 584,
+   "channel_name": "Nepal 1",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1951,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 585,
+   "channel_name": "Rang",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1952,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 586,
+   "channel_name": "Rengoni TV",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1953,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 587,
+   "channel_name": "Indradhanu",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1961,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 588,
+   "channel_name": "DY 365",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1970,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 589,
+   "channel_name": "News18 Assam North East",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1971,
+   "fta_pay": "Pay",
+   "mrp": "₹ 0.10",
+   "mrp_tax": "₹ 0.12"
+ },
+ {
+   "id": 590,
+   "channel_name": "News Live",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1973,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 591,
+   "channel_name": "Protidin Time",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1974,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 592,
+   "channel_name": "Prag News",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1975,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 593,
+   "channel_name": "North East Live",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1976,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 594,
+   "channel_name": "NKTV 24x7",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1977,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 595,
+   "channel_name": "Hornbill TV",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1978,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 596,
+   "channel_name": "DD Port Blair",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1985,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 597,
+   "channel_name": "DD Arunprabha",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1986,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 598,
+   "channel_name": "DD Manipur",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1987,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 599,
+   "channel_name": "DD North East",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1988,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 600,
+   "channel_name": "DD Kashir",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1989,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ },
+ {
+   "id": 601,
+   "channel_name": "Ramdhenu",
+   "hd_or_sd": "SD",
+   "genre": "Others",
+   "epg_no": 1990,
+   "fta_pay": "FTA",
+   "mrp": "FTA",
+   "mrp_tax": "FTA"
+ }
+]
