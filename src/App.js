@@ -15,7 +15,7 @@ export default function App() {
       <Navbar />
       {/* SearchBar */}
       <div className="card__container">
-        <section className="card__list">
+        <section className="container mx-auto">
           {tryout}
         </section>
       </div>
